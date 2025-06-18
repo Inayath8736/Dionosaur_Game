@@ -1,31 +1,32 @@
 # Dionosaur_Game
  <h1>Obstacle Runner Game</h1>
 
-    <p>This is a simple web game where you control a character (Dino) to jump over and avoid a rolling stone obstacle. Keep going as long as you can to get a high score!</p>
+hThis is a simple web game where you control a character (Dino) to jump over and avoid a rolling stone obstacle. Keep going as long as you can to get a high score!
 
-    <h2>How to Play</h2>
-    <ul>
-        <li><strong>Jump:</strong> Press the <strong>Up Arrow (&#8593;)</strong> or <strong>Spacebar</strong>.</li>
-        <li><strong>Move Right:</strong> Press the <strong>Right Arrow (&#8594;)</strong>.</li>
-        <li><strong>Move Left:</strong> Press the <strong>Left Arrow (&#8592;)</strong>.</li>
-        <li><strong>Goal:</strong> Avoid the stone for as long as possible to increase your score.</li>
-    </ul>
+<h2>How to Play</h2> <br>
+Jump: Press the Up Arrow (↑) or Spacebar. <br>
 
-    <h2>Game Over</h2>
-    <p>The game ends if Dino hits the stone. You'll see "Game Over!", your score, and a "Restart" button to play again.</p>
+Move Right: Press the Right Arrow (→). <br>
 
-    <h2>Technologies Used</h2>
-    <ul>
-        <li><strong>HTML:</strong> For the game's structure.</li>
-        <li><strong>CSS:</strong> For how the game looks and its animations.</li>
-        <li><strong>JavaScript:</strong> For how the game works (controls, collision, scoring).</li>
-    </ul>
+Move Left: Press the Left Arrow (←). <br>
 
-    <h2>Setup</h2>
-    <p>To play:</p>
-    <ol>
-        <li>Save the complete HTML code (provided in the previous response) as <code>index.html</code>.</li>
-        <li>Make sure you have the image files (<code>sky.jpg</code>, <code>bg.jpeg</code>, <code>dino.png</code>, <code>stone.png</code>) in the same folder as <code>index.html</code>.</li>
-        <li>Open <code>index.html</code> in your web browser.</li>
-    </ol>
-    <p class="note"><strong>Note:</strong> If you don't have the image files, the game will display placeholder images as referenced in the HTML code provided in the previous turn.</p>
+Goal: Avoid the stone for as long as possible to increase your score. <br>
+
+ <h2> Game Over </h2> <br>
+The game ends if Dino hits the stone. You'll see "Game Over!", your score, and a "Restart" button to play again. <br>
+
+<h2> Technologies Used </h2> <br> 
+HTML: For the game's structure. <br>
+CSS: For how the game looks and its animations. <br>
+JavaScript: For how the game works (controls, collision, scoring). <br>
+ <h3>Setup</h3> <br>
+To play: <br>
+
+Save the complete HTML code (provided in a previous response) as index.html. <br>
+
+Make sure you have the image files (sky.jpg, bg.jpeg, dino.png, stone.png) in the same folder as index.html. <br>
+
+Open index.html in your web browser. <br>
+
+Note: If you don't have the image files, the game will display placeholder images as referenced in the HTML code provided in the previous turn. <br>
+   
