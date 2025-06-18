@@ -1,5 +1,5 @@
 # Dionosaur_Game
-Obstacle Runner Game
+ <b>Obstacle Runner Game </b>
 This is a simple web game where you control a character (Dino) to jump over and avoid a rolling stone obstacle. Keep going as long as you can to get a high score!
 
 How to Play
